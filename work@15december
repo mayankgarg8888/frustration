@@ -1,0 +1,40 @@
+jai mata di
+.cad-> computer-aided design,cam-> computer-aided manufacturing,cnc-> computer numeric control(linux cnc-> a free and powerful machine controller)
+.tools-> virt-builder,xen-tools,virt-manager,virt-inspector,virt-rescue
+.virt-inspector->display os version and other information about a virtual machine,
+.virsh-> main interface for manageing virsh gusest domains, used to create,pause and shutdown domains and list current domains, why domain for xen did not work on virsh when it is compiles to support many hypervisors.
+.libvirt-> C toolkit to interact with the virtualization capabilities of recent versions of linux(other os),library aims at providing a long term stable C API,supports Xen,Qemu,KVM,LXC,OpenVZ,VirtualBox and VMware ESX.
+
+
+problem occurs many time-> 'libxenlight state driver is not active',and solutionhas been found ,,
+
+
+.ufw-> program for managing a netfilter firewall
+.iwconfig-> configure a wireless n/w interface,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
